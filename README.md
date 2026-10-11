@@ -12,4 +12,4 @@
 
 ## Lean Kanvas
 
-<img src="./assets/lean-kanvas.png" alt="Lean Kanvas">
+<img src="./assets/kanvas.png" alt="Lean Kanvas">
